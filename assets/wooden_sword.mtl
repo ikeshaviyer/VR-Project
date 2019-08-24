@@ -1,0 +1,13 @@
+# Blender MTL File: 'wooden sword.blend'
+# Material Count: 1
+
+newmtl Material.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.060720 0.021601 0.009693
+Ks 0.213636 0.213636 0.213636
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Downloads\\wood.png
