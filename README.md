@@ -2,7 +2,7 @@
 
 ## Setup
 
-Install Git, install Node JS (make sure `node` and `npm` are in your PATH).
+Install VS Code. Install Git, install Node JS (make sure `node` and `npm` are in your PATH). 
 
 ```
 git clone https://github.com/keshav1/VR-Project.git
