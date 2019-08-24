@@ -1,5 +1,20 @@
-# A-Frame Project
+# VR Project
 
-Built with [A-Frame](https://aframe.io), a web framework for building virtual reality experiences. Make WebVR with HTML and Entity-Component. Works on Vive, Rift, desktop, mobile platforms.
+## Setup
 
-Click and drag on desktop. Open it on a smartphone and use the device motion sensors. Or [plug in a VR headset](https://webvr.rocks)!
+Install Git, install Node JS (make sure `node` and `npm` are in your PATH).
+
+```
+git clone https://github.com/keshav1/VR-Project.git
+cd VR-Project
+npm install
+npm install -g serve
+```
+
+## Run project
+
+```
+serve
+```
+
+Open http://localhost:5000 in your browser. Yay!
